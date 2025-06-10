@@ -1,6 +1,6 @@
 {
   "name": "qazaq-tili",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Qazaq tili erezheleri",
   "main": "index.js",
   "scripts": {
