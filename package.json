@@ -1,7 +1,7 @@
 {
   "name": "qazaq-tili",
-  "version": "1.0.1",
-  "description": "Qazaq tili erezheleri",
+  "version": "2.0.0",
+  "description": "Қазақ тіліндегі септіктер, Склонение казахских слов, Decline Kazakh words by grammatical case",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,15 @@
     "url": "git+https://github.com/azamat-t/qazaq-tili.git"
   },
   "keywords": [
-    "Qazaq"
+    "Kazakh language",
+    "Қазақ тілі",
+    "Kazakh grammar",
+    "Қазақша грамматика",
+    "Септіктер",
+    "Decline Kazakh words",
+    "Склонение казахских слов",
+    "Kazakh case endings",
+    "Қазақша септік жалғаулары"
   ],
   "author": "Azamat Tugelbay",
   "license": "ISC",
